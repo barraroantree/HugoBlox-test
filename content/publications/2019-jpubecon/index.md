@@ -1,9 +1,9 @@
 ---
 title: "35 years of reforms: A panel analysis of the incidence of, and employee and employer responses to, social security contributions in the UK"
 authors:
+- me
 - Stuart Adam
 - David Phillips
-- me
 date: "2019-01-01T00:00:00Z"
 
 publication_types: ["article-journal"]

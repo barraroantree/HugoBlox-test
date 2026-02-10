@@ -1,35 +1,32 @@
 ---
-title: "Distributional Impact of Tax and Welfare Policies: Ireland 2009-13"
+title: "UK Tax Policy 2010-15: An Assessment"
 authors:
+- Stuart Adam
 - me
-- Tim Callan
-- Claire Keane
-- Michael Savage
 date: "2015-01-01T00:00:00Z"
 
 publication_types: ["article-journal"]
 
-publication: "*Fiscal Studies, 36*(1), 35-56"
+publication: "*Fiscal Studies, 36*(1), 1-35"
 publication_short: ""
 
-abstract: "This paper examines the distributional impact of tax and welfare policy changes in Ireland during the austerity period of 2009-2013. Using microsimulation analysis, we assess how these policy changes affected different household types and income groups."
+abstract: "The UK's coalition government implemented £64 billion of tax rises and £48 billion of tax cuts during its term of office from 2010 to 2015. This paper assesses the design of the individual reforms and what they imply for the coherence of the tax system as a whole. The reforms included some significant structural changes to the way savings and pensions are taxed, but for the most part reforms involved simply changing rates and thresholds, with little attempt to address the fundamental structural deficiencies of the tax system. All in all, the coalition's changes represent a missed opportunity to improve the tax system, leaving its successor with numerous challenges to address."
 
-summary: "Microsimulation analysis of the distributional impact of tax and welfare changes during Ireland's austerity period."
+summary: "Assessment of UK tax policy reforms during the 2010-2015 coalition government period."
 
 tags:
-- Fiscal Policy
-- Austerity
-- Ireland
-- Microsimulation
+- Tax Policy
+- UK
+- Public Finance
 featured: false
 
 hugoblox:
   ids:
-    doi: 10.1111/j.1475-5890.2015.12043
+    doi: 10.1111/j.1475-5890.2015.12055
 
 links:
   - type: pdf
-    url: "https://doi.org/10.1111/j.1475-5890.2015.12043"
+    url: "https://doi.org/10.1111/j.1475-5890.2015.12055"
 
 image:
   caption: ''

@@ -1,5 +1,5 @@
 ---
-title: "Redistribution in Ireland: Recent Trends and International Comparisons"
+title: "A Generation of Change Symposium (1997-2022): Income Inequality and Living Standards"
 authors:
 - me
 date: "2022-01-01T00:00:00Z"
@@ -9,19 +9,19 @@ publication_types: ["article-journal"]
 publication: "*Journal of the Statistical and Social Inquiry Society of Ireland*"
 publication_short: ""
 
-abstract: "This paper examines trends in redistribution through the tax and welfare system in Ireland, comparing Ireland's experience with other European countries. The analysis shows that Ireland has relatively high levels of redistribution, driven by progressive taxation and targeted social transfers."
+abstract: "This paper examines changes in the distribution of income and incidence of low living standards in Ireland as part of a contribution to a SSISI Symposium on a Generation of Change (1997-2022)."
 
-summary: "Analysis of redistribution trends in Ireland with international comparisons."
+summary: "SSISI Symposium contribution examining changes in income distribution and living standards in Ireland over 25 years."
 
 tags:
-- Redistribution
-- Tax Policy
+- Income Inequality
+- Living Standards
 - Ireland
 featured: false
 
 links:
   - type: pdf
-    url: ""
+    url: "http://hdl.handle.net/2262/102019"
 
 image:
   caption: ''

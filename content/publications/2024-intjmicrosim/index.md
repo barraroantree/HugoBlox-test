@@ -1,28 +1,34 @@
 ---
-title: "Modelling the joint distribution of income and wealth in Ireland using the Life-Cycle Income Model (LIM)"
+title: "The Effect of Earnings-Related Benefits on Financial Work Incentives"
 authors:
+- Theano Kakoulidou
+- Mark Doolan
 - me
 date: "2024-12-31T00:00:00Z"
 
 publication_types: ["article-journal"]
 
-publication: "*International Journal of Microsimulation, 17*(3), 1-30"
+publication: "*International Journal of Microsimulation, 17*(3), 21-43"
 publication_short: ""
 
-abstract: "This paper describes a microsimulation model of the joint distribution of income and wealth in Ireland. The Life-Cycle Income Model (LIM) uses administrative tax records to model the evolution of income and wealth from birth to death for a representative sample of individuals. The model is used to examine the distributional implications of various policy scenarios."
+abstract: "In most European Union countries, there is a link between the level of payment provided to those who have lost their job and the level of earnings in that job, at least for an initial period. While this provides valuable insurance to those who lose their job, a stronger link between unemployment benefits and previous earnings can exacerbate the moral hazard created by unemployment insurance. We examine strengthening this link for unemployment benefits in Ireland using SWITCH – a tax and welfare microsimulation model for Ireland – to simulate the financial work incentive impact of a proposed reform to current unemployment benefit policy. We find that implementing an earnings-related unemployment's benefit leads to reduced short-term incentives to work for all those currently in employment, with the impact being greater for full-time employees."
 
-summary: "Microsimulation model examining the joint distribution of income and wealth in Ireland using the Life-Cycle Income Model."
+summary: "Microsimulation analysis of how earnings-related unemployment benefits affect work incentives in Ireland."
 
 tags:
-- Microsimulation
-- Income Distribution
-- Wealth
+- Unemployment Benefits
+- Work Incentives
 - Ireland
+- Microsimulation
 featured: false
+
+hugoblox:
+  ids:
+    doi: 10.34196/ijm.00309
 
 links:
   - type: pdf
-    url: ""
+    url: "https://doi.org/10.34196/ijm.00309"
 
 image:
   caption: ''
