@@ -42,9 +42,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on the design of the tax and welfare system, and the evolution and distribution of living standards in Ireland.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of public policy in shaping economic outcomes and household wellbeing.
+
+        I was a member of the Irish Government's 2021-22 Commission on Taxation and Welfare.
 
         Please reach out to collaborate 😃
     design:
